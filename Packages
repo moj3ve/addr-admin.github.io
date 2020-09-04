@@ -1,0 +1,2038 @@
+Package: com.KJCracks.clutch2
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: ttwj
+Depends: zip
+Filename: ./deb/com.kjcracks.clutch2_2.0.4_iphoneos-arm.deb
+Size: 457582
+MD5sum: 006e4d423721b49b4092c179edf39ede
+SHA1: a80a771b36c96d229e2b6b976220d8a38844c221
+SHA256: 00d96d31007ddcb094fb544182a83497957d0f34dcf6f7ca831d98ff1d49f822
+Section: Utilities
+Homepage: https://github.com/KJCracks/Clutch
+Description: Fast cracking utility for iPhone, iPod and iPad
+Name: Clutch 2
+
+Package: com.bateleurs.noeditmenudelay
+Version: 1.0-6k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 64
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/com.bateleurs.noeditmenudelay_1.0-6k_iphoneos-arm.deb
+Size: 3358
+MD5sum: 4d062ff438e4b72b7cb7fa3fd3c0f119
+SHA1: 98e3b7857dc534c0473d7365fbfc8aa9af65e1d7
+SHA256: c0a9cd77aafe0b6a22d53703551f37cd1b31927ae8734e3a7f007e956423f8be
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditmenudelayDp
+Description: Instantly Show the Edit Menu!
+Tag: purpose::extension
+Author: bateleurs <t.ecaudatus@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditmenudelayDp
+Dev: bateleurs
+Name: NoEditMenuDelay
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.hackyouriphone.cloaky
+Version: 3.1.2k
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.6), firmware (>= 4.0), preferenceloader (>= 2.2.2)
+Filename: ./deb/com.hackyouriphone.cloaky_3.1.2k_iphoneos-arm.deb
+Size: 146738
+MD5sum: 81eb88c67e51e487a95e0700fa73f4f7
+SHA1: 9d3726e35fe70f8384ee6a302cd2b1f2c56471de
+SHA256: 92a552999b7f32f2c783cec89edf4399bd4d81aab269d90506b36f5562053276
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cloaky
+Description: Cloak annoyance items!
+Author: r_plus <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=cloaky
+Name: Cloaky
+
+Package: com.hackyouriphone.icontool
+Version: 1.9-6k
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.rpetrich.iconrenamer
+Filename: ./deb/com.hackyouriphone.icontool_1.9-6k_iphoneos-arm.deb
+Size: 384200
+MD5sum: 99432da0e8040a000afa383a917f7d2f
+SHA1: 21c6bdc9980dbcd4974992487fb272ad7a144477
+SHA256: 546206f53f9a9a151072856d2a2d1da1ddd97c33a4b7b34218e3ad2ff3c94ba5
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icontool
+Description: App tools menu from jiggle mode
+Author: ioshack <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icontool
+Name: Icon Tool
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 508
+Depends: firmware (>= 4.0)
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.2-1_iphoneos-arm.deb
+Size: 77156
+MD5sum: 05d34be4f6594bf5796775ad563377c6
+SHA1: 42f9f4b3a63b59b54707a5096a2ba5c9c7839cd5
+SHA256: ffacb2c97bbdb011cf86ed5c1bf3be2991b073aa086d52359d57bc553777826a
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 532
+Depends: firmware (>= 4.0)
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.2-3_iphoneos-arm.deb
+Size: 83006
+MD5sum: b736b10bdfef2600c5aa37a2232450a7
+SHA1: c33868a932ef00519d80242e8d7ac148cb7d2095
+SHA256: 62ad353f770d0e19f3a63ede4bfd6f9f18d529679b10a1c66f17c06cf16eabaf
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 508
+Depends: firmware (>= 4.0)
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.2-2_iphoneos-arm.deb
+Size: 77160
+MD5sum: 9b76f7c789e441c7a60e4a1a4e8a6962
+SHA1: eb48163890941cb95a3272bc56cfe07aec43a181
+SHA256: b454c936f99f890d4133971fe26c8a785a7c4238dddd41fccb6059a159e0e9d1
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3-8
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1512
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3-8_iphoneos-arm.deb
+Size: 148188
+MD5sum: 4bc23d3f5730b482571064493ee1f3e5
+SHA1: 59a71ae73a12c532cd294ece0b480c995bce06cf
+SHA256: 1283741fbb8a64c456cda6c2ccc23947abd1ae5de98b7fcee99ece56b5d38c9e
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0), firmware (<< 7.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-2_iphoneos-arm.deb
+Size: 47388
+MD5sum: 79743fd70c007084e5402431e93b6bc7
+SHA1: 47f851684997e93d44dd8cadada9b177ddb0d8a0
+SHA256: 44f4d3e8d2dcc5035e3e537e22ef6a2b5e1c8cceeaecbcc9cbd9307eaf4fc9d2
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.blogspot.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://willfeeltips.appspot.com/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 508
+Depends: firmware (>= 4.0)
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.1-9_iphoneos-arm.deb
+Size: 77186
+MD5sum: fcfbe5619d412d5113d950e110d3c783
+SHA1: 1181e9f332cb2ab00a2881b493e0cb1a001eb95a
+SHA256: 975de05c5160c847f425e33c1fa6661250c275d427b8f3ff30a5005c485db00e
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1344
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3-7_iphoneos-arm.deb
+Size: 146368
+MD5sum: 6fbc46c9b91ec77feeeff4c57386e738
+SHA1: 8f48cee3fcc3d15df4511ee0ae73e2f7fb6eb40b
+SHA256: 1db6879d0a5250b57ff7342fdf807e622f863176da51a367b029fe7885e13d65
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3-6
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1212
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3-6_iphoneos-arm.deb
+Size: 165440
+MD5sum: 9171a6b97f94c96babd4954036b650e6
+SHA1: 04482552e99203679de4d3fbb15edbfc778adfd3
+SHA256: b18b8ea45326388d759d26df6ae640dded0592d0cdc2df799103ba09003ae9d3
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1512
+Depends: firmware (>= 4.0), mobilesubstrate
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.4-4_iphoneos-arm.deb
+Size: 149726
+MD5sum: c445fb976e56660a2e2122f21b55fabf
+SHA1: ed0517bd8cb67f981ee3134b451f3572ecefe6f3
+SHA256: 5bd7e3c16b6ceb31d5359b1977dad86888de06e289325b0fbab5f0b6ae0700c1
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3-5
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1212
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3-5_iphoneos-arm.deb
+Size: 124870
+MD5sum: e170f92d0a2e9b7bc4fbd212e021870d
+SHA1: 479748a83cfbfdea4686e8062923ef12e6e2608e
+SHA256: e3f68ad29a6a69d8098605b09c1ca981626ef8335e05a0563b554b4ae035b653
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0), firmware (<< 7.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-4_iphoneos-arm.deb
+Size: 47216
+MD5sum: 6b11601a1461db37ca8a287b1e13b159
+SHA1: c481554769c32ebb7b7b10523df33a718660bd42
+SHA256: 90b0be5d66cf713fa47c37d1d8376aed33b6742ff4be52381d5b595568724d06
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3-9
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1512
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3-9_iphoneos-arm.deb
+Size: 148172
+MD5sum: 07edcef3f30030b86248fdf87f4341b2
+SHA1: fccc8014c63adbf3f416ca54d19bfd3c9eb1671d
+SHA256: 2ce802c0b764c481c7dfe23d5b547e1ed622a5c472609326676666c108c43e4a
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0), firmware (<< 7.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-1_iphoneos-arm.deb
+Size: 48762
+MD5sum: 36f3a148b0798357f61471c3fecb08ef
+SHA1: 8c2a7b2f57c8ee78eac294d5ed90ec6af757807c
+SHA256: e1ecab8cda4e7ffdd20e58898a401c9646b6256ce56f816868e14162edd911a5
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.blogspot.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://willfeeltips.appspot.com/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 240
+Pre-Depends: firmware (>= 4.0)
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, sbsettings
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.1-4_iphoneos-arm.deb
+Size: 60292
+MD5sum: 9c1224ceedf7248e5321325aafd35684
+SHA1: 32415479be47aecb0aa05e616c6876b8fabe3f84
+SHA256: df9b0ced579d400b230b341e25656996b6bc68f46b958795974a219e6c81daf9
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0), firmware (<< 7.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-7_iphoneos-arm.deb
+Size: 47328
+MD5sum: 9c6588cbb858be9bd2db761ac53612c6
+SHA1: 2489077f43bb82376f5532907ad4c198439fc25d
+SHA256: 861fc1ec9cdbb21c3bab3399eb181cd838164da6ed7b7e1bce310df10fcc1ea2
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://willfeeltips.appspot.com/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 288
+Pre-Depends: firmware (>= 4.0)
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.1-5_iphoneos-arm.deb
+Size: 61116
+MD5sum: 9bcff8362ea653f6626087f92f52f537
+SHA1: fc05f7d5fb95444e6179b6a92d95c2b7951de7c1
+SHA256: a5757aec75c8bf1d38e1df4aeff4f5916fbe019dd98d2705af4ccf827cd0b09b
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 896
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3_iphoneos-arm.deb
+Size: 151592
+MD5sum: 7314843fb6531c7c63072dc00bd2d8b3
+SHA1: 8540b14eeb292e670ec874b9137c17ea10cae6b0
+SHA256: 956c28a2a9763c9335c68e4cf77172f2a5ce27079699eebc7d5afb9ef5348435
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0), firmware (<< 7.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-3_iphoneos-arm.deb
+Size: 47214
+MD5sum: 28ac2aee21cdcb2023b00412f2e3acb7
+SHA1: b2f1d42765ac323fa10cfa4ced8cead0f0270a0e
+SHA256: 0d8d57f26b9860f5f05079772d298614675fab4e94032855e6f2aa7c20f4b2f8
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.blogspot.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://willfeeltips.appspot.com/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 476
+Depends: firmware (>= 4.0)
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.1-8_iphoneos-arm.deb
+Size: 71766
+MD5sum: b03a856efcc4d83267b4731196f14449
+SHA1: 7608f202711619cd33143b3a62d0d8b7984da543
+SHA256: 7439b3d6004ce2f5f3e78d9e2cbdc4a29c96808ee5d4977b9f10061c7aaef490
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-8_iphoneos-arm.deb
+Size: 47364
+MD5sum: 3ae0de2d8ce6253da07cdf2610f6560b
+SHA1: d40178852cd2ff487c18814048f1f4870f674c96
+SHA256: 8d8261140b8d555af7997259d87ead69a5e3cffe22f3c173324417e4d89aaf26
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://willfeeltips.appspot.com/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-6
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0), firmware (<< 7.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-6_iphoneos-arm.deb
+Size: 47306
+MD5sum: 5c7ab1eeaa52e7df2802380ed5f1fd97
+SHA1: 45ae72b9f0ab4221e035f7ff5d5d0da59ced04ed
+SHA256: 63fe203088e0d55879e6bb6ded068c876c6da6f497571999e9ae23c2202ff81a
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://willfeeltips.appspot.com/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 888
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3-1_iphoneos-arm.deb
+Size: 153410
+MD5sum: 38e59c23e46d2eedd54e9f7c445ec7c3
+SHA1: 1cab8ea50ae340db483e0b3e710bb0a0c68fa71b
+SHA256: ca9ae943934ff882759da576b0e6ddd7a9301f8ad35364d97724334f064a9a7e
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 508
+Depends: firmware (>= 4.0)
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.2_iphoneos-arm.deb
+Size: 77120
+MD5sum: e46c6cf3b0363e35ae6aaa3811db22cd
+SHA1: 4767e2c68987682b21066cc24ae05c8d54712aec
+SHA256: 76f93a76769faa5fbb296c3255ac28faf56cd6781a5cac1599bce291b0add5bd
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.3-3
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1212
+Depends: firmware (>= 4.0), com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.3-3_iphoneos-arm.deb
+Size: 124930
+MD5sum: f743baaec90b9f5a2bdddacfcb179836
+SHA1: 780747127501a990017d0cedbc4ebf1cdbf141b3
+SHA256: 631b5c842240480d35395fbdb9eb03cadecb59c83e10eeece6b24808aa0f534a
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 464
+Depends: firmware (>= 4.0)
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.1-7_iphoneos-arm.deb
+Size: 69678
+MD5sum: 4f3b555e9f37a2ba9738d31803fd2fea
+SHA1: e5bcdf1016cb90a92430cee1d49e6badf87f733e
+SHA256: 6142ad800d4b09b0e04d93856522f1141c5afa699cbf127135d27c422f3db2a0
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 240
+Pre-Depends: firmware (>= 4.0)
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, sbsettings
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.1-3_iphoneos-arm.deb
+Size: 60228
+MD5sum: d844fac987d3c79b832959bf19cca333
+SHA1: 520bbc712723fd346e84e59dee4e62a297c52665
+SHA256: 0e770ffe55cb65959106d3fa6fa56455b3b854ebe5f7a6b8571d6f61a73cd20c
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Pre-Depends: firmware (>= 4.0), firmware (<< 7.0)
+Depends: sbsettings
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.0-5_iphoneos-arm.deb
+Size: 47266
+MD5sum: 4595bdc1fbdd8e792335a7080d46a41b
+SHA1: f246ef35098fccf2d485c749ec0d335ebc4305e8
+SHA256: 2a5ae04dad0fd532d66f9803ea5d9e3c827bb7904bc87e19dd0f305ac0d7603c
+Section: Addons (SBSettings)
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Name: RemoveAdsToggle
+
+Package: com.ichitaso.removeadstoggle
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 1512
+Depends: firmware (>= 4.0), mobilesubstrate
+Conflicts: com.ichitaso.removeads
+Replaces: com.ichitaso.removeadstoggle
+Filename: ./deb/removeadstoggle/com.ichitaso.removeadstoggle_1.4-3_iphoneos-arm.deb
+Size: 149652
+MD5sum: d3c6dca2b72daa31452c0d3ab8a0cc48
+SHA1: 1bae1d0c185736812793f9f6400849501eba7042
+SHA256: 48fa6812c0295ee73cd91a6699064dc4669800e5eb3168147110bd7843b8458a
+Section: Addons
+Homepage: http://ichitaso.com/
+Description: Adblock hosts & iAd Remove Toggle
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: ichitaso
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Name: RemoveAdsToggle
+
+Package: com.iky1e.edgeswipeselection
+Version: 0.1-9k
+Architecture: iphoneos-arm
+Maintainer: Kyle Howells
+Installed-Size: 88
+Depends: mobilesubstrate
+Conflicts: com.iky1e.swipeselection
+Replaces: com.iky1e.swipeselection
+Filename: ./deb/com.iky1e.edgeswipeselection_0.1-9k_iphoneos-arm.deb
+Size: 15568
+MD5sum: 965f8eab5b506c72addfaeaa6fd91ee0
+SHA1: a9dde815842e1837c8e9494d6cb9ab119f29c6de
+SHA256: cfe5eb0d8c393275daf80376342416920e79a23ed22cd0fbf18f499e6c9621d1
+Section: Tweaks
+Description: Swipe along the keyboard to move the cursor and select text.
+Author: Kyle Howells
+Name: EdgeSwipeSelection
+
+Package: com.jerryen.quickactivator
+Version: 1.4.1-1k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1511
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), libactivator, preferenceloader (>= 2.2.2)
+Conflicts: com.jerryen.ccclockopentoalarm
+Filename: ./deb/com.jerryen.quickactivator_1.4.1-1k_iphoneos-arm.deb
+Size: 893688
+MD5sum: f54e822eed2439d4f6760f03f9fbffbd
+SHA1: 944e3ad26bc5a034505e99c80208480528ebbd47
+SHA256: 816c2a0ef9cbb33b3fa19ed7dfb272587ce7ebe4de6cc36af4c162158f516778
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickactivatorDp
+Description: customizable Control Center action shortcuts
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: Jerry En <Jerry+quickactivator@jerryen.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickactivatorDp
+Dev: jerryen
+Icon: file:///Library/PreferenceBundles/QuickActivatorSettings.bundle/QuickActivatorSettingsIcon@2x.png
+Name: QuickActivator
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.julioverne.spotilife
+Version: 0.9
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./deb/spotilife/com.julioverne.spotilife_0.9_iphoneos-arm.deb
+Size: 82442
+MD5sum: 5af794dda5ef7c5cc5b8d89021cb40f2
+SHA1: 8dd46954d78343b5aaa252004517f6126d2e6fa9
+SHA256: bf559ff84be9f9547b8fcafa859ea7a5e719fcd784d8a3aa4b3280a5a398d7b5
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Name: Spotilife
+
+Package: com.julioverne.spotilife
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./deb/spotilife/com.julioverne.spotilife_1.0_iphoneos-arm.deb
+Size: 82874
+MD5sum: 4ed73de019364ba12201d1fed0e8c116
+SHA1: fb6d08dc1b065dde119bd09f1f8c3c06a5d842cc
+SHA256: a73d28f73e4c07eb4c69842e9e313d86f4b6b105dab5fefaae088adb6cc81fd5
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Name: Spotilife
+
+Package: com.julioverne.spotilife
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./deb/spotilife/com.julioverne.spotilife_0.8_iphoneos-arm.deb
+Size: 79532
+MD5sum: 90fd873d82921b7446d2f091d7a226cd
+SHA1: 7ce2e80e672e0db98d6662c4615a94f33560f594
+SHA256: a93f62180b0c961d669297cb37ab12fe6e5e27c35b0124103d7a2887e405447b
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Name: Spotilife
+
+Package: com.kindadev.tweetbot3forcouria
+Version: 0.1-4
+Architecture: iphoneos-arm
+Maintainer: Qusic & kindadev <QusicS@Me.com>
+Installed-Size: 128
+Depends: firmware (>= 7.0), mobilesubstrate, me.qusic.couria
+Filename: ./deb/com.kindadev.tweetbot3forcouria_0.1-4_iphoneos-arm.deb
+Size: 25924
+MD5sum: 97142011a9884794f25aaeb5301d89f5
+SHA1: 3ea9b536cfe7196828b3e1c3c4758355780631bc
+SHA256: 5b4449c92cedfef699d23342343907495f6ad0663475bd2863712ebb82a08756
+Section: Tweaks
+Priority: optional
+Homepage: http://Qusic.me/Couria
+Description: Tweetbot 3 Extension for Couria
+Tag: purpose::extension
+Author: Qusic & kindadev <QusicS@Me.com>
+Depiction: http://Cydia.Qusic.me/htmls/tweetbotforcouria.html
+Name: Tweetbot 3 for Couria
+Sponsor: kindadev (http://kindadev.com/)
+
+Package: com.ktweakjb.appdatamanager
+Version: 1.1.1-1k
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Depends: zip
+Filename: ./deb/ktweakjb/com.ktweakjb.appdatamanager_1.1.1-1k_iphoneos-arm.deb
+Size: 6286668
+MD5sum: 4704ba7301e548020038901a6dfda7d2
+SHA1: 04acdc054281f9eb003f48af82e4cad2c68fa50c
+SHA256: 0bd01ff2a198b27ad664b9dc26ab156e1f5f14209b0293f9799fd5fca8f98de6
+Section: Tweaks
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps.
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Apps Manager
+
+Package: com.ktweakjb.cercube3
+Version: 1.6.9k
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, repo.biteyourapple.net.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.yourepo.arabicydia.cercube2
+Filename: ./deb/com.ktweakjb.cercube3_1.6.9k_iphoneos-arm.deb
+Size: 15209234
+MD5sum: 32da36c98bcac733c965cfe241c44224
+SHA1: 7434c2127a14ec0f9c6eb22f02382cd938a6ca51
+SHA256: 7a06ed5d540720403de48738e681b8dbd6bf926341075a891223437f4a1576d2
+Section: Tweaks
+Description: All-in-one YouTube extension!
+Author: ktweakjb
+Name: Cercube 3 for YouTube
+
+Package: com.ktweakjb.clutch
+Version: 1.4.6
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_1.4.6_iphoneos-arm.deb
+Size: 186376
+MD5sum: bb1fd1423512a527d755d2e6e8f74d9f
+SHA1: 8b95ba1e33f3dd8756ee116ef7107d45d706621c
+SHA256: f5b74e5ceec486ff3fe6b15d01f7d439a636cea6568541f60e1eb9b132616de6
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_1.4.3_iphoneos-arm.deb
+Size: 297862
+MD5sum: a0060ec8df2f60075ca5be280193182f
+SHA1: 820ef95e49e21cc9b437eca0deb03f62fa7fb2ee
+SHA256: 363142b8820d33027e37d9b606e5492f87772a07af4a4d1539254eef312f1c87
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_1.4.0_iphoneos-arm.deb
+Size: 187742
+MD5sum: cb8175b76ef60fb6b686b74fd14ba751
+SHA1: c3f6d7945ead7b3e2505f5cb52ecbedf6df77cea
+SHA256: cc6c8693cc9a1ec551a7b354dc486ec6ac7c6cda83fe5a41987ba4ad4123d4f0
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_1.4.4_iphoneos-arm.deb
+Size: 211492
+MD5sum: 3e29ff41f9938db0f95294719f4d076a
+SHA1: 927da265d66c803d42d8103e9a8354e72a4382ac
+SHA256: b2748f1eb88178fc945c6a47fd3e87d98ae81924cdb00284e95377ea5172adaf
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_2.0.2_iphoneos-arm.deb
+Size: 451772
+MD5sum: 717b3662855083fd0425a42af09be882
+SHA1: b7aaff2c89b2eb6428f8fc4a382b1e6cad2fda7c
+SHA256: 892c3712f7deae9db3c42f2bfc44990daab4c45ab5e5d14018cf57d7dba40342
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_1.4.1_iphoneos-arm.deb
+Size: 188756
+MD5sum: f7f0fcaa8837fa1475fe7f98cc761ddb
+SHA1: 1765cc9ff4ccd063cbc56c76d0b8838eebeb8fef
+SHA256: d99fe268a5326627237191e9fa3c015d4e72e61435806d255efc47d10ceaf26b
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_2.0.0_iphoneos-arm.deb
+Size: 433592
+MD5sum: 62fb99ec7cbb99ed78c507f7eead6536
+SHA1: 42a1af3e02f2d2fc4bd106a70081476943b66256
+SHA256: b7483a0ad45ee820fef9b75ff644cae043924daf219101e38630d544d4f16ef6
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_2.0.3_iphoneos-arm.deb
+Size: 447738
+MD5sum: b4f696d113727deb28d4b8c789eb46bb
+SHA1: 2a3ef8e900b77d822165aa8c46db62393a5c894c
+SHA256: 9cfe7c708610f86ffc7cf7f0f5ade2b9979f4ac61e906c7b95125ebb4cda7119
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_2.0.4_iphoneos-arm.deb
+Size: 457726
+MD5sum: df592ecfa1ccbbab558c76dd21be61c1
+SHA1: b84540fdd449c4d0c95dc3f50ee995cf7692edfc
+SHA256: 3722acb029c2490ad77219d6cd46b075edff69eff062fd6f91f206dffbe215c3
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_1.4.2_iphoneos-arm.deb
+Size: 189230
+MD5sum: 1c856a6954a9e75ba116c6f4715dfc38
+SHA1: 17ec3f96e71b86d9d413d5dd0b9bf54340f614f5
+SHA256: ded0f5a032f8998c89a2cdd3630303a7e6174d5785e43412253292f41d34bcc4
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.clutch
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.clutch_2.0.1_iphoneos-arm.deb
+Size: 430198
+MD5sum: 5186ece696733e888c8414966cdb0484
+SHA1: 1e123c072af04416d18bb455cc4c07bcb90ba325
+SHA256: 1a138626dd25db75a6c99ffbb5b238817c2e03083384a37154c19da0eb785e75
+Section: Utilities
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research. Clutch requires a jailbroken iOS device with version 8.0 or greater..
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Clutch
+
+Package: com.ktweakjb.disableprediction
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.disableprediction.deb
+Size: 882
+MD5sum: cdf97d4d93342a08d573e6bee2dc6d36
+SHA1: 76cd4e4aaeb0cfc9d3a101de154abbc6d6e40b3b
+SHA256: c202302288e20387f70f52a1bf585e562627a69d5c3798005c8bfab73cc8be57
+Section: Tweaks
+Description: Disable prediction.
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Disable prediction
+
+Package: com.ktweakjb.filza
+Version: 3.4.0-25k
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, repo.biteyourapple.net.filza64bit
+Filename: ./deb/ktweakjb/com.ktweakjb.filza_3.4.0-25k_iphoneos-arm.deb
+Size: 22332520
+MD5sum: 23038e5db3534d08660a6eb03a28a01a
+SHA1: bcd91828313990f308c1d4d91551463e497df9cc
+SHA256: dfdb6c6fcd2b01356f68ca0e7c1b3962ff33138d0d710fac17d1ba6401e155fa
+Section: Tweaks
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Filza File Manager
+
+Package: com.ktweakjb.ipabackup
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Depends: com.autopear.installipa
+Filename: ./deb/ktweakjb/com.ktweakjb.ipabackup_0.1_iphoneos-arm.deb
+Size: 806
+MD5sum: fa88c9cc4bab193343a46fb31fc3dcc5
+SHA1: 7f05f5566d0b89fd489f120ac7164bdbd1346726
+SHA256: c02dd3aeafce81d77e4386e32aeb6c937017fd241c9fa5116deb22adfbb38cf8
+Section: Utilities
+Description: ipa all backup
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: ipaBackup
+
+Package: com.ktweakjb.noannoyance
+Version: 0.3.0~beta4-1k
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8), applist (>= 1.5)
+Filename: ./deb/ktweakjb/com.ktweakjb.noannoyance_0.3.0~beta4-1k_iphoneos-arm.deb
+Size: 56440
+MD5sum: ff1283c518f674959b54e350f431e225
+SHA1: 41d4ba999398c3d2713b5b807a1e53331281d0d0
+SHA256: 0887cecf0a01c7209b7d1a4ba583c8afd0bfbd3de1a4170bbe24b88e98f6917e
+Section: Tweaks
+Description: Tame iOS annoying alerts!
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: NoAnnoyance
+
+Package: com.ktweakjb.noannoyancelegacy
+Version: 0.2.0-1k
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Installed-Size: 272
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7), firmware (<= 8), applist (>= 1.5)
+Filename: ./deb/ktweakjb/com.ktweakjb.noannoyancelegacy_0.2.0-1k_iphoneos-arm.deb
+Size: 36638
+MD5sum: 8c6037e1c00292dba2e4fd9d8dd22b3a
+SHA1: aa08747fb10d44924e4bfcac3057ace04718d920
+SHA256: 12bd06e95c13874b67ba2a2080445d54721aac4721663af8660182411a6d56ee
+Section: Tweaks
+Description: Tame iOS annoying alerts!
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: NoAnnoyanceLegacy
+
+Package: com.ktweakjb.offshutter
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.offshutter.deb
+Size: 860
+MD5sum: 4028b7117f975df2ce22e83d4cd51575
+SHA1: 96099d5ccd9d31ed37c68834674c48bded9b57b7
+SHA256: eda8d8bde08f4e80595a2752d85c642529f9e28ef8413297daa19c93bd259323
+Section: Tweaks
+Description: Off camera sound.
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: OFFShutter
+
+Package: com.ktweakjb.offshutter2
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.offshutter2_0.1_iphoneos-arm.deb
+Size: 832
+MD5sum: 7e3055c9a8e1ba9bd0ada96e9b1d2615
+SHA1: 701c0fc162c677d8ebada3422ef19fbf36f60f6f
+SHA256: 2fc04f22c1b60b4b5a67bc16a4bf5d72cc44b9aa1f80c1b563699f1c4c59804d
+Section: Tweaks
+Description: Off camera sound. Please LDRestart!!!
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: OFFShutter SemiVer.
+
+Package: com.ktweakjb.pasithea
+Version: 1.2.7k
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), com.a3tweaks.flipswitch, net.angelxwind.karenlocalizer
+Conflicts: com.ichitaso.pasteboardswitch
+Filename: ./deb/ktweakjb/com.ktweakjb.pasithea_1.2.7k_iphoneos-arm.deb
+Size: 516606
+MD5sum: aa9cd950418949bb7e1991138e94ab15
+SHA1: f13096eb2d13512fe1c739209a9ebafb03848c3d
+SHA256: be870eea265272f421a09712a88f7f42fbf28ffe59b1c0717d4624d0c81ca988
+Section: Tweaks
+Description: Saves the history copied to pasteboard
+Author: ktweakjb
+Name: Pasithea
+
+Package: com.ktweakjb.st2jp
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.st2jp_0.1_iphoneos-arm.deb
+Size: 6548
+MD5sum: 8f208ba0c2133ab36bed6e4ea602ccfe
+SHA1: 20dd44bfc617e860d3c712d4c407135b1b1dc389
+SHA256: f863d0dcbf453f4b8ff4c36659710fd8c6ce4244106f13ff7d7ce7da94a90546
+Section: Tweaks
+Description: Springtomize on Japanese
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Springtomize JP
+
+Package: com.ktweakjb.tage
+Version: 1.2.2-1k
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./deb/ktweakjb/com.ktweakjb.tage_1.2.2-1k_iphoneos-arm.deb
+Size: 620150
+MD5sum: e7b4892558e7cfbaf506d4de68f26cbf
+SHA1: ed648d3046b9225c8a403f9e93741fa593121750
+SHA256: 5b3eaca5455cd650d4e907d4acd5ae523df9f257655bc0fbb095826dbda99541
+Section: Tweaks
+Description: Awesome multitasking gestures and more.
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Tage
+
+Package: com.ktweakjb.ttuknob
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Filename: ./deb/ktweakjb/com.ktweakjb.ttuknob.deb
+Size: 29036
+MD5sum: 4935808d4b6d90f7b6fef6592afbb403
+SHA1: 668ad24aa4f725aa060aee5d9a517f01edeffc88
+SHA256: 7f883c41a189279c798e1e6f3a599dedc54d143607ac38456f28ca0954a0ffd0
+Section: Tweaks
+Description: Knob only.
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: TaptoUnlock Knob
+
+Package: com.ktweakjb.upscale
+Version: 0.3.0-3k
+Architecture: iphoneos-arm
+Maintainer: ktweakjb
+Depends: mobilesubstrate
+Filename: ./deb/ktweakjb/com.ktweakjb.upscale_0.3.0-3k_iphoneos-arm.deb
+Size: 21906
+MD5sum: 5fdb89d6b525116d6076df0514f3d9f8
+SHA1: a196a4cbe510460fcef215aeddf6b7192bdceea0
+SHA256: f29c509b38e4717e6e32484c653a96368230ebc6cf205c21c4718d85a5cec05b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Tag: purpose::extension
+Author: ktweakjb
+Dev: ktweakjb
+Name: Upscale
+
+Package: com.lablabla.muteicon
+Version: 1.4.2k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 441
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), libstatusbar (>= 0.9.6.1) | libmoorecon, preferenceloader
+Filename: ./deb/com.lablabla.muteicon_1.4.2k_iphoneos-arm.deb
+Size: 45384
+MD5sum: 91cf0dc3191d90221e23475939565da7
+SHA1: 33760b2103a8b819dcce3f229ffb0b99c2deca9b
+SHA256: cfd1bb3897002be673d4783877bb04bb9e80bdd94d2df42048fc455b6fb35f54
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=muteiconDp
+Description: adds mute icon to status bar
+Tag: purpose::extension
+Author: Carmel Barak (La bla bla) <lablabla@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=muteiconDp
+Dev: lablabla
+Name: MuteIcon
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.myrepospace.jsam.igameguardian60crack
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: jsam <jsam.repo@gmail.com>
+Installed-Size: 4100
+Filename: ./deb/com.myrepospace.jsam.igameguardian60crack_6.0_iphoneos-arm.deb
+Size: 1519204
+MD5sum: 516d6b0e34d1cc620939c53e0402d3c1
+SHA1: 073e32f5ac28b5e3d404b72271dfa67cf89c818b
+SHA256: 9f92de217ae7c6e8f5ab8079c0bbbb887795773b7d0f28a3fea153e8da1ad7c2
+Section: Utilities
+Priority: optional
+Description: iGameGuardian is a game cheating engine for iOS 5.1.1/6.x/7.x.
+Author: jsam <jsam.repo@gmail.com>
+Name: iGameGuardian 6.0 Crack
+
+Package: com.projectypy.dlforpt2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 81
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./deb/downloadenablerprotube2_1.0.deb
+Size: 3104
+MD5sum: 771232ba32d4957c902df9e9bb430026
+SHA1: be00cd4011b1ed1682bf6805a43d6080ebb5a4bc
+SHA256: dd82c302780e237b7506c6e0b1d288b9f3ee8b3511079c821cf760fcbd9900aa
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=downloadenablerprotube2Dp
+Description: enable local playlists in ProTube 2
+Tag: purpose::extension, ios7support::1, ios8support::1
+Author: Project PY <projectpy@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=downloadenablerprotube2Dp
+Dev: projectypy
+Name: Download Enabler for ProTube 2
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.pulandres.safestdn
+Version: 1.60
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 12368
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
+Filename: ./deb/com.pulandres.safestdn_1.60_iphoneos-arm.deb
+Size: 9326884
+MD5sum: 0c4d06f425cd5f25437d19d1ed6b53e8
+SHA1: 4b65d8480c7a54fd61876712c4e4c9c9cfadbfc8
+SHA256: a19cc94824bab61dd760dbed818f7df5bbcc00a6658895a539749cc2f6425d67
+Section: Tweaks
+Description: Avoid re-jailbreaking when your iDevice have not battery.
+Author: Pulandres
+Depiction: https://repo.pulandres.me/index.php?pid=1116
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: SafeShutdown Cracked
+Sileodepiction: https://repo.pulandres.me/sileo.php?pid=1116
+
+Package: com.smokin1337.npurge
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./deb/npurge/com.smokin1337.npurge_1.0.2_iphoneos-arm.deb
+Size: 53150
+MD5sum: 28c22d2dc787be7a0b740f0706897f8b
+SHA1: f016a75fb1a40160566fedad396fa8f8b9f76d05
+SHA256: b2038245fae6d8ea66fb4186f754461bf0da159192ef4370965cddfed0e6a740
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./deb/npurge/com.smokin1337.npurge_1.0.1_iphoneos-arm.deb
+Size: 53008
+MD5sum: f4c35e9bfc3e761069bc6f766989fa58
+SHA1: 9df11050ca1ddea79f2278d0514e754ee6d6fad5
+SHA256: ac9f7f39477e87ee2570ec1f7a37889821e2b19c3496492942ca329b3561e8a3
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.3-2
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./deb/npurge/com.smokin1337.npurge_1.0.3-2_iphoneos-arm.deb
+Size: 53176
+MD5sum: 462a2c5f1c9d92ffc17bb1e5d45f3771
+SHA1: e752a951a0b6923b12fea921a8870142fb6aceec
+SHA256: 224531d9008914513cf2f7c42ed45d69ac5d0bed2638d3e0b17352a8908beb34
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 980
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./deb/npurge/com.smokin1337.npurge_1.0.5_iphoneos-arm.deb
+Size: 419080
+MD5sum: 4136d6c59f5e0b13f4bb69345995f2bc
+SHA1: 275bf87da23cc50732dc5476c41c52d8fcaff662
+SHA256: 24ada5a6470e0f860de2579e633e2d1ee78fc93575eba293fb220ba56e6fdf62
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 980
+Depends: mobilesubstrate
+Filename: ./deb/npurge/com.smokin1337.npurge_1.0.4_iphoneos-arm.deb
+Size: 419636
+MD5sum: 2e72e99f6a02ea1f6aa16295e9813eb5
+SHA1: c09961c2031d56962c33ab6e8536ac6ae9c24c26
+SHA256: c90868766100677cafe9cc41637e638b804f4c9410c3b813f504ff81e90efa8f
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurge
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./deb/npurge/com.smokin1337.npurge_1.0_iphoneos-arm.deb
+Size: 52468
+MD5sum: 2ee936b48d44812901c02dd3001b5a62
+SHA1: afed1734246c6f09b7315d3094f8c081e9c7e3ed
+SHA256: ea8dd199d8c3fa5416bacd648361a77b96301537d54e910332fc77d358853d55
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.smokin1337.npurgefix
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 980
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./deb/npurge/com.smokin1337.npurgefix_1.0.4_iphoneos-arm.deb
+Size: 464280
+MD5sum: e40ddc09b9747906a97fbd845a06ae26
+SHA1: 245fb4d56d9cff45c113c2ffce2073aab27b01ef
+SHA256: 8df1ce9a1e265dfd958a1f6a7d5e9680dcab023fca9c6d98cb5d111631035d1a
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurgeFix(~iOS12)
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
+Package: com.unlimapps.ytpp
+Version: 1.4r-62
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10211
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.1r-66)
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.unlimapps.jodeboxlib
+Filename: ./deb/ytpp/com.unlimapps.ytpp_1.4r-62_iphoneos-arm.deb
+Size: 2086970
+MD5sum: 99e0949eb809dea9a9f46aa55bcad0f8
+SHA1: 27ed370281b10d0ab512093d9eb722bf7cfa9b8f
+SHA256: a80d14aea1d31c025456cdb6241f7499770b546ffe22ce24acac19ea5f8781c9
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeplusplusDp
+Description: Download all YouTube Videos! Continue background playback and much more!!!
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeplusplusDp
+Dev: i4iphones
+Icon: file:///Library/Application%20Support/YouTubePP/APResources.bundle/PlusIcon@2x.png
+Name: YouTube ++
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.unlimapps.ytpp
+Version: 1.4r-90
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 7.0),com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.2r-8)
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.unlimapps.jodeboxlib
+Filename: ./deb/ytpp/com.unlimapps.ytpp_1.4r-90_iphoneos-arm.deb
+Size: 3167704
+MD5sum: 31e2c57fcec18c381d06a8c1dfc9481b
+SHA1: b6782d14b3120fade2f65a4ec84c503f04dc6333
+SHA256: b36574864a5e79c2622b41d191f4e0c9e7360f4a2216094f33b9e33eea3297f6
+Section: Tweaks
+Priority: optional
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
+Description: Download all YouTube Videos! Continue background playback and much more!!!
+Tag: purpose::extension, role::enduser
+Author: UnlimApps Inc <support@unlimapps.com>
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
+Dev: i4iphones
+Name: YouTube ++
+
+Package: com.unlimapps.ytpp
+Version: 1.4r-91
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 7.0),com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.2r-8)
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.unlimapps.jodeboxlib
+Filename: ./deb/ytpp/com.unlimapps.ytpp_1.4r-91_iphoneos-arm.deb
+Size: 3172354
+MD5sum: f2cc3cebe93cf8a0ba3769eb9a877936
+SHA1: c4017eb8bdd3ddb3330485353fca3840bdb29479
+SHA256: 182d8cc919fa5507b4c930d0cbb36d7fedaa01a28a00d8541b2525d7cc62b172
+Section: Tweaks
+Priority: optional
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
+Description: Download all YouTube Videos! Continue background playback and much more!!!
+Tag: purpose::extension, role::enduser
+Author: UnlimApps Inc <support@unlimapps.com>
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
+Dev: i4iphones
+Name: YouTube ++
+
+Package: jp.akusio.backgrounderaction11
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 72
+Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Filename: ./deb/akusio-repo-archive/jp.akusio.backgrounderaction11_0.0.8_iphoneos-arm.deb
+Size: 11254
+MD5sum: 4e5f9a3bf7181ab56b9f92c62d052a2b
+SHA1: db4126586d28fec526217d49f2f1ca06920705f2
+SHA256: ea95a4ff7b088375985dae7df02a79e6c006d911acd819c67eb60097b7da6a32
+Section: Tweaks
+Description: *Currnetly in Beta* Add "Toggle Background Mode" action to Activator.
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction/index.html
+Name: Backgrounder Action
+
+Package: jp.akusio.backgrounderaction12
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 276
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./deb/akusio-repo-archive/jp.akusio.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Size: 21308
+MD5sum: 15173fd99097de7fbd73181cce6369ee
+SHA1: 1d619f4d3bf01e02a709bb53e9bde0b2de0c8788
+SHA256: 27b29176ad2aaf9cc46bc5c21ac2743da9042565ad620523a85570a34d397259
+Section: Tweaks
+Description: Add "Toggle Background Mode" action to ControlCenter.
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
+Name: BackgrounderAction for CCSupport
+
+Package: jp.akusio.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./deb/akusio-repo-archive/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 14078
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+Section: Tweaks
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Name: BackgrounderAction2 for CCSupport
+
+Package: jp.akusio.debypass
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./deb/akusio-repo-archive/jp.akusio.debypass_0.1.1_iphoneos-arm.deb
+Size: 3434
+MD5sum: c30a9d8e5894db97f3068142067383e4
+SHA1: 03125e346546ccb319d2579b96cb4a1a43432abe
+SHA256: 4ace366c5ef5ce521888fe5e142999a6a9360349ee125e2e4b867bb9d246f0fa
+Section: Tweaks
+Description: bypass jailbreak detection.
+Author: akusio
+Depiction: https://akusio.github.io/descriptions/debypass/index.html
+Name: De-Bypass
+
+Package: jp.akusio.kernbypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 380
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./deb/akusio-repo-archive/jp.akusio.kernbypass_0.0.2_iphoneos-arm.deb
+Size: 12098
+MD5sum: bf11d32c8efe3576fb1716ad28227f0b
+SHA1: d54a0131ea51d21447be7950ef6cb495f751dc1a
+SHA256: 612ca12f0818ed7763806d87f0e4f977d5b208b2dd67b0997745bc0e39a434b2
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+
+Package: jp.akusio.milkyway
+Version: 0.1.4beta
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 208
+Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
+Filename: ./deb/akusio-repo-archive/jp.akusio.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 53886
+MD5sum: 16215e3679d0e50c00f46af56a2ce41d
+SHA1: b215c92cbd349f14e54a0f9a6e61d417b1169c58
+SHA256: 6412eac6ad919b1f523a03115ae563cfe71ed63c498d1e11b1b661254dfb33f3
+Section: Tweaks
+Description: multitasking for iOS.
+Author: akusio <akusio-report@neko2.net>
+Depiction: http://akusio.github.io/descriptions/milkyway/index.html
+Name: MilkyWay
+
+Package: jp.akusio.milkyway2
+Version: 0.2.0-alpha
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 376
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Filename: ./deb/akusio-repo-archive/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 44822
+MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
+SHA1: a779498db20097cef4783e6d817796d640bd6372
+SHA256: 9c1aa016b720ecfaa6f3176cd88454ec8767f1832306b69cda85e3ed734165e3
+Section: Tweaks
+Description: multitasking for iOS13.
+Author: akusio <akusio-report@neko2.net>
+Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
+Name: MilkyWay2
+
+Package: jp.akusio.noentersafemode
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/akusio-repo-archive/jp.akusio.noentersafemode_0.0.1_iphoneos-arm.deb
+Size: 2748
+MD5sum: 3285d3bab78e89d7b937136d701671f5
+SHA1: b7e3ac2204004997c7a060c872185eaf91a7b58a
+SHA256: 116443f2b1a22cd539438402d63fcf5b95f9a5884473e10c8e265ca7442581ef
+Section: Tweaks
+Description: No longer enter safemode.
+Author: akusio
+Depiction: http://akusio.github.io/descriptions/noentersafemode/index.html
+Name: NoEnterSafeMode
+
+Package: jp.akusio.psappcompatibilitypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/akusio-repo-archive/jp.akusio.psappcompatibilitypatch_0.0.1_iphoneos-arm.deb
+Size: 2314
+MD5sum: 7da249d450684bd6f528f8724a298726
+SHA1: 78c7352a16b9a2ba86d7aaf3510d3439a141ed11
+SHA256: 7ca3fbb7b313982edf4d405d26824b1a9c00759a20dec00c46fc20543527014b
+Section: Tweaks
+Description: Backgrounder Action 2 and PSApp compatibility patch.
+Author: akusio
+Name: Backgrounder Action2 PSAppCompatibilityPatch
+
+Package: jp.ashikase.folderenhancer
+Version: 1.9.8.2-2k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 456
+Depends: firmware (>= 4.0), firmware (<< 6.2), mobilesubstrate, preferenceloader (>= 2.0.2-1), com.chpwn.iconsupport (>= 1.7.3), jp.ashikase.symbolicate
+Conflicts: jp.ashikase.multiiconmover (<< 1.0.5), net.limneos.foldersinfolders, net.limneos.scrollingboard (<< 2.7-2), com.yllier.foldercloser, com.chpwn.gridlock (<< 1.2), com.chpwn.infiniboard (<< 1.6), net.r-ch.iconoclasm (<< 1.7)
+Filename: ./deb/jp.ashikase.folderenhancer_1.9.8.2-2k_iphoneos-arm.deb
+Size: 164078
+MD5sum: 37a66ba18db23f67eb5fa2d3e95bf4c2
+SHA1: 0519d9df88815a853723d81b9ca6ffb1ce52ec42
+SHA256: fb9cc96b902c468a039fb9bb58ddb42bc4229099ed2a3765ee3cc811b083b106
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.folderenhancer/
+Description: Improves and extends iOS folders.
+Tag: purpose::extension
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.folderenhancer/
+Dev: ashikase
+Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon@2x.png
+Name: FolderEnhancer (iOS 4/5/6)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: jp.ashikase.multiiconmover.plus
+Version: 2.6.0k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 140
+Depends: firmware (>= 4.2), firmware (<< 9.0), mobilesubstrate, preferenceloader
+Conflicts: jp.ashikase.multiiconmover, jp.ashikase.folderenhancer (<< 1.5.0)
+Replaces: jp.ashikase.multiiconmover
+Filename: ./deb/jp.ashikase.multiiconmover.plus_2.6.0k_iphoneos-arm.deb
+Size: 49074
+MD5sum: 0b6a9f4bb8c7a94aa30c8a61b98ae43b
+SHA1: c06acee830641b51530d3f1b0f8823f9494dcf09
+SHA256: 0eed3a39a61321db509620a2f6a91040568a3df9e591262dd1af94474cdba851
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.multiiconmover.plus/
+Description: Enhanced version of MultiIconMover.
+Tag: purpose::extension
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.multiiconmover.plus/
+Dev: ashikase
+Icon: file:///Library/PreferenceBundles/MultiIconMoverPlus.bundle/icon@2x.png
+Name: MultiIconMover+
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: kr.slak.backgroundmanager
+Version: 1.0.3k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1115
+Depends: firmware (>= 6.0), firmware (<< 7.2), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libstatusbar (>= 0.9.7.0)
+Conflicts: backgrounder, me.devbug.backgroounder, me.devbug.backgrounderxforios5, me.devbug.backgroundboard, kr.slak.fono46x, kr.slak.fono.springboardextensions
+Replaces: backgrounder, me.devbug.backgrounder, me.devbug.backgrounderxforios5, me.devbug.backgroundboard, kr.slak.fono46x, kr.slak.fono.springboardextensions
+Filename: ./deb/kr.slak.backgroundmanager_1.0.3k_iphoneos-arm.deb
+Size: 384448
+MD5sum: d1dcaf173e0ac70f0da375a5fa167e98
+SHA1: 923244c09dc982d6597e2597ebaee9db733120e9
+SHA256: 0387b5b8f049ab5ba0e3c02332957598ca5ac01b4be52b2b3a0506ad92e85690
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backgroundmanagerDp
+Description: Real backgrounding on your iDevice!
+Tag: purpose::extension
+Author: deVbug <devbug@devbug.me>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backgroundmanagerDp
+Dev: devbug
+Icon: file:///Library/PreferenceBundles/BackgroundManagerSettings.bundle/BackgroundManager@2x.png
+Name: Background Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: kr.slak.cctoggles.qlpanel.appswitcher
+Version: 0.2.2k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 173
+Depends: mobilesubstrate (>= 0.9.5000), kr.slak.cctoggles (>= 0.2-2), firmware (>= 7.0)
+Conflicts: gsc.ipad
+Filename: ./deb/kr.slak.cctoggles.qlpanel.appswitcher_0.2.2k_iphoneos-arm.deb
+Size: 56428
+MD5sum: 407006af143c6b200a289444f4767519
+SHA1: 2672bedfa0a48836cf25a7ac18d9bd1ade788a66
+SHA256: 9a56c7fc20db1b50d9e3deb8d479bd28dfd3ddeb36dfff762094088246ebab8e
+Section: Addons (ControlCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cctogglesqlpanelappswitcherDp
+Description: AppSwitcher QuickLaunch Panel for CCToggles
+Tag: purpose::extension
+Author: deVbug <devbug@devbug.me>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cctogglesqlpanelappswitcherDp
+Dev: devbug
+Name: AppSwitcher QLPanel
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.chewitt.seng
+Version: 1.2.2-1k
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, applist, firmware (>=8.0), preferenceloader
+Conflicts: com.joshdoctors.cclivebrightness, com.a3tweaks.auxo3ios9, org.thebigboss.lylac, net.angelxwind.mikoto(<<2.9-beta-1), org.thebigboss.switchertweakpro
+Filename: ./deb/me.chewitt.seng_1.2.2-1k_iphoneos-arm.deb
+Size: 470196
+MD5sum: a58a8599071d4f43f126f035d614f246
+SHA1: 1d96b4353f9311b8acca30805a497e01a7697f40
+SHA256: 9f0e3bbcb053a9b183f68b9d169cdd8705aacadb58326e653f1ea78f9289a62e
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/seng.php
+Description: Sleek replacement for your iOS 8 app switcher and controlcenter
+Tag: purpose::extension
+Author: Charlie Hewitt <contact@chewitt.me>
+Depiction: http://modmyi.com/info/seng.d.php
+Icon: file:///Library/PreferenceBundles/sengPrefs.bundle/sengBig.png
+Name: seng
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: net.angelxwind.appsyncunified
+Version: 74.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.4.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_74.0_iphoneos-arm.deb
+Size: 42050
+MD5sum: d0094e3faceb90fac7589c6f3e502666
+SHA1: aee103aeeda2b4b6579e4de7c4654a3754006cc3
+SHA256: 8ba12312f899fe8c77c47623a688472968112bc263369bbba5119fbc6356f7d6
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 66.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 384
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_66.0_iphoneos-arm.deb
+Size: 34490
+MD5sum: f5cdf9e0dd7624ac8d94187feffc41a0
+SHA1: 1fd79bc8811d8a6f599c5364c5d060b751b416ae
+SHA256: a7879da97e94ec99ce39c14e2b2337cbdc93edb6973ff006e49e2be9d5df3f42
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 6.0~b1
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Installed-Size: 364
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_6.0~b1_iphoneos-arm.deb
+Size: 28060
+MD5sum: 08ebf3470673bd5297e8f15e1d8c35da
+SHA1: 4117cdebf3369df220de4330ebc9b7a38dd18442
+SHA256: d6783f85996bee92effd9aa71b0b81be8a46bb16b49e32d73b165c1b9503ad1b
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: AppSync Unified allows you to sync and install unsigned iOS applications. Works on iOS 5 and above.
+Author: Linus Yang, Karen Tsai <angelXwind@angelxwind.net>
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 64.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 384
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 13.2.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, com.ex.substitute (<< 0.0.13), com.ex.libsubstitute (<= 0.1.0-coolstar)
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_64.0_iphoneos-arm.deb
+Size: 34262
+MD5sum: 496ad4ac25ecb7c47a0f364662c97fec
+SHA1: 18bef8c21286a85e503a4cb6afe0982ed24975b8
+SHA256: af63bd3dde6a6ac14ae05777d313982468070d762d8d1b7ff5ae81b18ec93c5f
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 6.0.1
+Architecture: iphoneos-arm
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Installed-Size: 256
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_6.0.1_iphoneos-arm.deb
+Size: 28740
+MD5sum: 5fc147aa21921ac33545405f5e8c971e
+SHA1: 79b030bcd23ab08b8cf50cae48c87fa9980aaca9
+SHA256: c48388333e6ea5097bb7e6b0c38c9ae9d41259b4c1fb3572521cbdcb2d3d21ff
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen／明美 <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 5.3-1
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Installed-Size: 284
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_5.3-1_iphoneos-arm.deb
+Size: 36904
+MD5sum: 2211badf93b662fd3d9b6f93c02692af
+SHA1: 80c6a928a249c262e9ee060d9e603f5b7346e456
+SHA256: e1278b5034c1146e1d24a99d5a791332b1d7e834e5d1a91ad3d65987883abd30
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: AppSync Unified allows you to sync and install unsigned iOS applications. Works on iOS 5, 6, 7, and 8.
+Author: Linus Yang, Karen Tsai <angelXwind@angelxwind.net>
+Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 41.1-NoA12
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 368
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 12.4)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_41.1-NoA12_iphoneos-arm.deb
+Size: 33870
+MD5sum: e7636c1c38a61cd179401fd6c49dfde3
+SHA1: c5539996de2a1578cba1ec6138106b62f06fc119
+SHA256: 7e736ccf049c75c6cca41b94c47dd6bf742d01c3317f9163637b63efd7d9460a
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified (NO A12 SUPPORT)
+
+Package: net.angelxwind.appsyncunified
+Version: 31.1
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 256
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_31.1_iphoneos-arm.deb
+Size: 30362
+MD5sum: 3d066c0024bacf35a705da8907a11e1a
+SHA1: dd4db5547cd50ba8768baf48ec778f21687a67e0
+SHA256: 7582f3123cbcd846e6bc615db8b05251bd02b85be43ef1d27e0607ad590ac4fc
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 32.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 368
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 12.1.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_32.0_iphoneos-arm.deb
+Size: 33850
+MD5sum: 2ac16e733938592a0a85744d3d9c5ad4
+SHA1: da8cf554312b1eaf3b17f2b526a4ca081cddea71
+SHA256: 5707c9b8b3000e1268184599aaeb48c49f4c23e2c6cba44f12620b8fa116db9f
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 9.0
+Architecture: iphoneos-arm
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Installed-Size: 256
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.1.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_9.0_iphoneos-arm.deb
+Size: 30294
+MD5sum: 784ca8f6f42018b9ded5b279efb0329a
+SHA1: 4f99b5b6b5787c2fb35f62dbc73d2147bf74bef6
+SHA256: 2e72a03609df27f6c1b8161ecd86e9c90d3624cde0e07fe4914be282f5d90c96
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen／明美 <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 80.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_80.0_iphoneos-arm.deb
+Size: 42050
+MD5sum: c85456e75e9bcbd7174b8ad6e4e0dcb4
+SHA1: 3cd33452a5fd3ce3ea802713e540c00d03661054
+SHA256: 9f134ae1195783584cfde0c78dee439157c553c88703f0ae461b3f52248e577f
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 70.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./deb/appsyncunified/net.angelxwind.appsyncunified_70.0_iphoneos-arm.deb
+Size: 41990
+MD5sum: e5e3bdd13d5389a1463525010c568a32
+SHA1: d7f6998f6b6b121c0927abcaa202d2adde94aa84
+SHA256: a1fc5fdf73c1fa3b19807d566e71b62a0217be86b4730da2eac2c3fd80b359dd
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: org.thebigboss.canopyios7
+Version: 3.1-2k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 659
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Conflicts: gsc.ipad, org.thebigboss.canopy
+Filename: ./deb/org.thebigboss.canopyios7_3.1-2k_iphoneos-arm.deb
+Size: 377458
+MD5sum: 25d17d47c241d1928b24951ff2cd2480
+SHA1: aadac8aed5b4d8a6ffbba5ef604eba8b219eb8ae
+SHA256: 12f5edd9a86728aaaba31d9c5522fcabd58a826a472408673df258e0ccf3689a
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=canopyios7Dp
+Description: Adds many features to Safari
+Tag: purpose::extension
+Author: Jonathan Bailey <jon.bailey889@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=canopyios7Dp
+Dev: jonbailey889
+Icon: file:///Library/PreferenceBundles/CanopyPreferences.bundle/canopy@2x.png
+Name: Canopy for iOS 7
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: org.thebigboss.volumemixer
+Version: 1.2.0-39k
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 560
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), org.thebigboss.customwidgeticons, com.chpwn.weeloader
+Filename: ./deb/org.thebigboss.volumemixer_1.2.0-39k_iphoneos-arm.deb
+Size: 203832
+MD5sum: 2804b0562b54b1b891f31f339e162320
+SHA1: be12c8b8c6ee506cec6a93cdcf1de7f4dd7fa0ad
+SHA256: 1fa12ad907cffc8fc62f58fbe93615b14675745044b43d55ee285410d99e9969
+Section: Addons (NotificationCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=volumemixerDp
+Description: Volume controls in Notification Center
+Tag: purpose::extension, ios7support::1, ios8support::1
+Author: VladMax Soft <vladmaxsoft@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=volumemixerDp
+Dev: vladmaxsoft
+Icon: file:///Library/PreferenceBundles/VolumeMixerPrefs.bundle/icon@2x.png
+Name: Volume Mixer
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: ./deb/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 446
+Conflicts: ru.domo.cocoatop
+Filename: ./deb/ru.domo.cocoatop64_2.0.2_iphoneos-arm.deb
+Size: 118756
+MD5sum: 91eb83ce0b02f4f3fa32e48797ddc2da
+SHA1: 3d36219ed91f11826297a445be1fa7b4bff8d1cb
+SHA256: 6bcfd4a79000d8721534d34b5d4917df4308cf647f0e3ab6f63aaa2ee0ee5eea
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop
+

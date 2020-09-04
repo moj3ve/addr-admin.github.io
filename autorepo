@@ -1,0 +1,59 @@
+#!/bin/sh
+echo "made by FUKAJUN"
+echo "version 3.0"
+echo "debパッケージを作成します。"
+echo -e "パッケージ名を入力してください。リポジトリの更新だけ行う場合はSKIPと入力してください。：\c"
+read PK
+if [ $PK != SKIP ];then
+	if [ -e $PK/DEBIAN/postinst ]; then
+		chmod 775 $PK/DEBIAN/postinst
+	fi
+	if [ -e $PK/DEBIAN/postrm ]; then
+		chmod 755 $PK/DEBIAN/postrm
+	fi
+	if [ -e $PK/DEBIAN/prerm ]; then
+		chmod 755 $PK/DEBIAN/prerm
+	fi
+	if [ -e $PK/DEBIAN/preinst ]; then
+		chmod 755 $PK/DEBIAN/preinst
+	fi
+	dpkg-deb -b $PK  || { echo -e "\nエラー1 <Enter>で終了します。"; read DUMMY; echo "終了します..."; exit 1;}
+	ls -la $PK.deb
+	echo -e "『パッケージの作成に成功！』\n"
+	sleep 1
+fi
+echo "-Packagesを生成中-"
+dpkg-scanpackages -m . /dev/null > Packages || { echo -e "\nエラー2 <Enter>で終了します。"; read DUMMY; echo "終了します..."; exit 1;}
+echo -e "『Packages生成しました！』\n"
+sleep 1
+echo -e "圧縮処理開始\n"
+echo -e "『古いPackages.bz2がある場合は削除処理を行います。』\n"
+sleep 1.5
+find -name 'Packages.bz2' -exec rm {} \;
+bzip2 Packages
+echo -e "\n『Packages.bz2を生成しました。』\n"
+sleep 1
+echo "-Packagesを生成中-"
+dpkg-scanpackages -m . /dev/null > Packages || { echo -e "\nエラー2 <Enter>で終了します。"; read DUMMY; echo "終了します..."; exit 1;}
+echo -e "『Packages生成しました！』\n"
+sleep 1
+echo -e "『古いPackages.gzがある場合は削除処理を行います。』\n"
+sleep 1.5
+find -name 'Packages.gz' -exec rm {} \;
+gzip Packages
+echo -e "\n『Packages.gzを生成しました。』\n"
+sleep 1
+echo "-Packagesを生成中-"
+dpkg-scanpackages -m . /dev/null > Packages || { echo -e "\nエラー2 <Enter>で終了します。"; read DUMMY; echo "終了します..."; exit 1;}
+echo -e "『Packages生成しました！』\n"
+sleep 1
+echo "=ファイル一覧="
+ls -la *
+if [ $PK != SKIP ];then
+	echo -e "\n＝＝＝＝＝\n＝すべて完了です。\n＝$PK.deb\n＝Packages.bz2\nの2つのファイルをアップロードしてください。\n＝\n＝<Enter>で終了します。"
+	read DUMMY
+	exit 0
+fi
+echo -e "\n＝＝＝＝＝\n＝すべて完了です。\n＝Packages.bz2をアップロードしてください。\n＝\n＝<Enter>で終了します。"
+read DUMMY
+exit 0
